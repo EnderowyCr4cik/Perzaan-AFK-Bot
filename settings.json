@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "afk_bot_24_7",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "SMPl2.aternos.me",
+    "port": 53153,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
