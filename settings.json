@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "afk_bot_24_7",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "SMPl2.aternos.me",
