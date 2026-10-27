@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afk_bot_24_7",
+    "username": "BBoott",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SMPl2.aternos.me",
-    "port": 53153,
+    "ip": "legenderyweapons.swiftservers.org",
+    "port": ,
     "version": "1.21.11"
   },
   "position": {
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -57,7 +57,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
